@@ -3,6 +3,7 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 import Navbar from './components/Navbar';
 import Header from './components/Header';
 import Particles from 'react-particles-js';
+import About from './components/About';
 
 function App() {
   return (
@@ -11,10 +12,10 @@ function App() {
         params={{
             particles: {
                 number: {
-                    value: 40,
+                    value: 60,
                     density: {
                       enable: true,
-                      value_area: 900
+                      value_area: 1200
                     }
                 },
                 shape: {
@@ -29,6 +30,7 @@ function App() {
       />
       <Navbar />
       <Header />
+      <About />
     </>
   );
 }

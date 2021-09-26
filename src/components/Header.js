@@ -5,7 +5,7 @@ const Header = () => {
     return (
         <div className= "header-wrapper">
             <div className="main-info">
-                <h1>Software Development Portfolio</h1>
+                <h1>Hamad Kashmiri Portfolio</h1>
                 <TypeAnim 
                     className="typed-text" 
                     strings={["Hi", "Im Hamad", "Im a Software Developer", "You have a large Forehead"]}
