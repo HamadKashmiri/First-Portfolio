@@ -8,7 +8,7 @@ const Header = () => {
                 <h1>Hamad Kashmiri Portfolio</h1>
                 <TypeAnim 
                     className="typed-text" 
-                    strings={["Hi", "Im Hamad", "Im a Software Developer", "You have a large Forehead"]}
+                    strings={["Hi", "Im Hamad", "Im a Software Developer"]}
                     typeSpeed={40}
                     backSpeed={60}
                     loop={true}
