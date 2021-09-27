@@ -50,7 +50,7 @@ nav ul li {
   padding: 0;
 }
 
-.navbar-nav > li > a.active, .navbar-nav > li > a.active:focus {
+.navbar-nav > li > a.active, .navbar-nav > li > a:focus {
   border-top: 0.1875rem solid var(--primary-orange)
 }
 
@@ -65,7 +65,7 @@ nav ul li {
   background: url(headerbg40.jpg) no-repeat;
   background-size: cover;
   background-position: center;
-  height: 90vh;
+  height: 100vh;
 }
 
 
@@ -509,4 +509,27 @@ nav ul li {
   .contacts p {
     padding: 0 0.4rem;
   }
+}
+
+/* Contact */
+
+.footer {
+  color: var(--primary-darkgrey);
+  background: var(--primary-black);
+  padding: 3rem;
+}
+
+.footer a {
+  text-decoration: none;
+  color: var(--primary-darkgrey);
+}
+
+.footer a:hover {
+  text-decoration: none;
+  color: var(--primary-orange);
+  cursor: pointer;
+}
+
+.footer p {
+  margin-bottom: 0;
 }
