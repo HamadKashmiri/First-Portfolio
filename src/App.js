@@ -6,6 +6,7 @@ import Particles from 'react-particles-js';
 import About from './components/About';
 import Services from './components/Services';
 import Experience from './components/Experience';
+import Portfolio from './components/Portfolio';
 
 function App() {
   return (
@@ -14,10 +15,10 @@ function App() {
         params={{
             particles: {
                 number: {
-                    value: 60,
+                    value: 45,
                     density: {
                       enable: true,
-                      value_area: 1200
+                      value_area: 800
                     }
                 },
                 shape: {
@@ -26,6 +27,9 @@ function App() {
                       width: 6,
                       color: "#f9ab00"
                     }
+                },
+                move: {
+                  speed: 1
                 }
             }
         }}
@@ -35,6 +39,7 @@ function App() {
       <About />
       <Services />
       <Experience />
+      <Portfolio />
     </>
   );
 }
