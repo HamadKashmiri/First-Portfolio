@@ -13,7 +13,7 @@ const Portfolio = () => {
     const openPopupboxFittness = () => {
         const content = (
             <>
-                <iframe className="portfolio-iframe-popup-box" src="https://www.youtube.com/embed/v=EVUu2KqjvLA" title="React Fittness" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+                <iframe className="portfolio-iframe-popup-box" src="https://www.youtube.com/embed/EVUu2KqjvLA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                 <p>This project is a mock of a fittness website created with React. There are multiple components in this SPA including a dashboard</p>
                 <b>Github: </b> 
                 <a className="hyper-link" onClick={() => window.open("https://github.com/HamadKashmiri/ReactFittness")}>https://github.com/HamadKashmiri/ReactFittness</a>
@@ -34,7 +34,7 @@ const Portfolio = () => {
     const openPopupboxSwirl = () => {
         const content = (
             <>
-                <iframe className="portfolio-iframe-popup-box" src="https://www.youtube.com/embed/v=1LYCNJX_NMU" title="Swirl" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+                <iframe className="portfolio-iframe-popup-box" src="https://www.youtube.com/embed/1LYCNJX_NMU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                 <p>This software is one of three created for an escape room company - Bust Out 360. They
                 use it to control their rooms</p>
                 <b>Github: unavailable</b> 
@@ -56,7 +56,7 @@ const Portfolio = () => {
     const openPopupboxApi = () => {
         const content = (
             <>
-                <iframe className="portfolio-iframe-popup-box" src="https://www.youtube.com/embed/v=PIXqR-YiDGc" title="Dogs Api" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+                <iframe className="portfolio-iframe-popup-box" src="https://www.youtube.com/embed/PIXqR-YiDGc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                 <p>This is a fullstack Javascript website using the MERN stack. It functions using a Rest Api</p>
                 <b>Github Frontend: </b> 
                 <a className="hyper-link" onClick={() => window.open("https://github.com/HamadKashmiri/DogCharityFrontendReactBootstrap")}>https://github.com/HamadKashmiri/DogCharityFrontendReactBootstrap</a>
@@ -80,7 +80,7 @@ const Portfolio = () => {
     const openPopupboxRecify = () => {
         const content = (
             <>
-                <iframe className="portfolio-iframe-popup-box" src="https://www.youtube.com/embed/v=C0kyGwSyYYg" title="Recify" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+                <iframe className="portfolio-iframe-popup-box" src="https://www.youtube.com/embed/C0kyGwSyYYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                 <p>This is an Android application utilising a number of Androids features, including 2 databases aswell as a machine learning api</p>
                 <b>Github: </b> 
                 <a className="hyper-link" onClick={() => window.open("https://github.com/HamadKashmiri/Recify")}>https://github.com/HamadKashmiri/Recify</a>
