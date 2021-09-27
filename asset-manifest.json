@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/First-Portfolio/static/css/main.8ac48f4a.chunk.css",
+    "main.js": "/First-Portfolio/static/js/main.83993a4a.chunk.js",
+    "main.js.map": "/First-Portfolio/static/js/main.83993a4a.chunk.js.map",
+    "runtime-main.js": "/First-Portfolio/static/js/runtime-main.c84db0b9.js",
+    "runtime-main.js.map": "/First-Portfolio/static/js/runtime-main.c84db0b9.js.map",
+    "static/css/2.c82f72da.chunk.css": "/First-Portfolio/static/css/2.c82f72da.chunk.css",
+    "static/js/2.7b63e2fb.chunk.js": "/First-Portfolio/static/js/2.7b63e2fb.chunk.js",
+    "static/js/2.7b63e2fb.chunk.js.map": "/First-Portfolio/static/js/2.7b63e2fb.chunk.js.map",
+    "static/js/3.d4586204.chunk.js": "/First-Portfolio/static/js/3.d4586204.chunk.js",
+    "static/js/3.d4586204.chunk.js.map": "/First-Portfolio/static/js/3.d4586204.chunk.js.map",
+    "index.html": "/First-Portfolio/index.html",
+    "static/css/2.c82f72da.chunk.css.map": "/First-Portfolio/static/css/2.c82f72da.chunk.css.map",
+    "static/css/main.8ac48f4a.chunk.css.map": "/First-Portfolio/static/css/main.8ac48f4a.chunk.css.map",
+    "static/js/2.7b63e2fb.chunk.js.LICENSE.txt": "/First-Portfolio/static/js/2.7b63e2fb.chunk.js.LICENSE.txt",
+    "static/media/apithumb.934347cb.png": "/First-Portfolio/static/media/apithumb.934347cb.png",
+    "static/media/avatar-1.9277ecea.png": "/First-Portfolio/static/media/avatar-1.9277ecea.png",
+    "static/media/avatar-2.75d8f23e.png": "/First-Portfolio/static/media/avatar-2.75d8f23e.png",
+    "static/media/avatar-3.d6c9b46f.png": "/First-Portfolio/static/media/avatar-3.d6c9b46f.png",
+    "static/media/avatar-4.f7fb7ed7.png": "/First-Portfolio/static/media/avatar-4.f7fb7ed7.png",
+    "static/media/App.css": "/First-Portfolio/static/media/testimonials-bg.75612be7.jpg",
+    "static/media/profile.74f80338.png": "/First-Portfolio/static/media/profile.74f80338.png",
+    "static/media/reactthumb.7c3b1329.png": "/First-Portfolio/static/media/reactthumb.7c3b1329.png",
+    "static/media/recifythumb.68a7e411.png": "/First-Portfolio/static/media/recifythumb.68a7e411.png",
+    "static/media/swirlthumb.77c91762.png": "/First-Portfolio/static/media/swirlthumb.77c91762.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c84db0b9.js",
+    "static/css/2.c82f72da.chunk.css",
+    "static/js/2.7b63e2fb.chunk.js",
+    "static/css/main.8ac48f4a.chunk.css",
+    "static/js/main.83993a4a.chunk.js"
+  ]
+}
